@@ -1,0 +1,17 @@
+# Don't ship to Vercel — runtime doesn't need them
+node_modules
+.next
+*.tsbuildinfo
+
+# 50MB+ of OCR intermediates (consumed by build-products.py at dev time only)
+data/pdf-pages
+data/pdf-pages-3x
+data/pdf-pages-hi
+data/pdf-pages-hi-crops
+data/pdf-pages-hi-right
+
+# Real form submissions (PII, also gitignored)
+data/inbox/*.jsonl
+
+# Local design QA screenshots (not needed at runtime)
+docs/design-references

@@ -1,0 +1,516 @@
+{
+  "_meta": {
+    "generated_at": "",
+    "currency": "EUR",
+    "note": "Sample data for template purposes — replace with your own catalog"
+  },
+  "brands": [
+    {
+      "id": "vozol",
+      "name": "VOZOL",
+      "products": [
+        {
+          "id": "vozol-star-6000",
+          "brand": "VOZOL",
+          "model": "STAR 6000",
+          "puffs": 6000,
+          "flavors": [
+            "Watermelon Ice",
+            "Cherry Cola",
+            "Strawberry Kiwi",
+            "Strawberry Mango",
+            "Strawberry Ice Cream",
+            "Strawberry Watermelon",
+            "Blueberry Ice",
+            "Blueberry Raspberry",
+            "Blueberry Sour Raspberry",
+            "Mango Peach Watermelon",
+            "Peach Ice",
+            "Tropical Fruit",
+            "Mixed Berries",
+            "Grape Ice",
+            "Cool Mint",
+            "Mango Passion Fruit",
+            "Watermelon Bubble Gum",
+            "Kiwi Passion Fruit"
+          ],
+          "moq": null,
+          "unit_price_usd": 4.66,
+          "category": "disposable",
+          "confidence": "medium"
+        },
+        {
+          "id": "vozol-gear-10000",
+          "brand": "VOZOL",
+          "model": "GEAR 10000",
+          "puffs": 10000,
+          "flavors": [
+            "Blueberry Ice",
+            "Cool Mint",
+            "Pineapple Ice",
+            "Watermelon Ice",
+            "Strawberry Mango",
+            "Strawberry Kiwi",
+            "Strawberry Banana",
+            "Strawberry Watermelon",
+            "Blueberry Raspberry",
+            "Mango Peach Watermelon",
+            "Peach Ice",
+            "Grape Ice",
+            "Cherry Cola",
+            "Watermelon Bubble Gum",
+            "Mixed Berries"
+          ],
+          "moq": null,
+          "unit_price_usd": 5.85,
+          "category": "disposable",
+          "confidence": "low"
+        },
+        {
+          "id": "vozol-vista-10000",
+          "brand": "VOZOL",
+          "model": "VISTA 10000",
+          "puffs": 10000,
+          "flavors": [
+            "Blueberry Ice",
+            "Peach Berry",
+            "Strawberry Kiwi",
+            "Strawberry Mango",
+            "Watermelon Ice",
+            "Cool Mint",
+            "Cherry Cola",
+            "Mango Peach Watermelon",
+            "Tropical Fruit",
+            "Grape Ice",
+            "Mixed Berries"
+          ],
+          "moq": null,
+          "unit_price_usd": 6.2,
+          "category": "disposable",
+          "confidence": "low"
+        },
+        {
+          "id": "vozol-neon-800",
+          "brand": "VOZOL",
+          "model": "NEON 800",
+          "puffs": 800,
+          "flavors": [
+            "Berry Cherry Lime",
+            "Berry Mint",
+            "Blue Raz Ice",
+            "Blueberry Watermelon",
+            "Cherry Cola",
+            "Cherry Berry",
+            "Cranberry Ice",
+            "Dragon Fruit Banana Cherry",
+            "Frozen Strawberry Kiwi",
+            "Grape Watermelon",
+            "Hawaiian Pineapple Paradise",
+            "Lemon Tart",
+            "Mixed Berries",
+            "Strawberry Banana",
+            "Strawberry Raspberry Cherry",
+            "Watermelon Bubble Gum",
+            "Watermelon Razz Banana"
+          ],
+          "moq": null,
+          "unit_price_usd": 1.92,
+          "category": "disposable",
+          "confidence": "low"
+        },
+        {
+          "id": "vozol-star-bb-saver-5000",
+          "brand": "VOZOL",
+          "model": "STAR BB Saver 5000",
+          "puffs": 5000,
+          "flavors": [
+            "Blueberry Grapefruit",
+            "Blueberry Ice",
+            "Blueberry Watermelon",
+            "Blueberry Raspberry",
+            "Cherry Cola",
+            "Strawberry Ice Cream",
+            "Strawberry Kiwi",
+            "Strawberry Mango",
+            "Strawberry Watermelon",
+            "Cool Mint",
+            "Mango Peach Watermelon",
+            "Peach Ice",
+            "Grape Ice",
+            "Mixed Berries",
+            "Watermelon Bubble Gum"
+          ],
+          "moq": null,
+          "unit_price_usd": 6.1,
+          "category": "disposable",
+          "confidence": "low"
+        },
+        {
+          "id": "vozol-star-click-12000",
+          "brand": "VOZOL",
+          "model": "STAR Click 12000",
+          "puffs": 12000,
+          "flavors": [
+            "Watermelon Ice",
+            "Blue Razz Ice",
+            "Cool Mint",
+            "Pineapple Ice",
+            "Grape Ice",
+            "Strawberry Mango",
+            "Strawberry Kiwi",
+            "Strawberry Watermelon",
+            "Strawberry Banana",
+            "Peach Mango Watermelon",
+            "Peach Berry",
+            "Blueberry Watermelon",
+            "Blueberry Raspberry",
+            "Cherry Cola",
+            "Mixed Berries"
+          ],
+          "moq": null,
+          "unit_price_usd": 7.1,
+          "category": "disposable",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "id": "vapen",
+      "name": "Vapen",
+      "products": [
+        {
+          "id": "vapen-aura-10000",
+          "brand": "Vapen",
+          "model": "AURA 10000",
+          "puffs": 10000,
+          "flavors": [
+            "Lemon Lime",
+            "Strawberry Vanilla Cake",
+            "Blueberry Ice",
+            "Mango Peach",
+            "Strawberry Kiwi",
+            "Watermelon Bubble Gum",
+            "Pineapple Coconut",
+            "Cherry Cola",
+            "Mixed Berries"
+          ],
+          "moq": null,
+          "unit_price_usd": 4.4,
+          "category": "disposable",
+          "confidence": "low"
+        },
+        {
+          "id": "vapen-detoy-12000",
+          "brand": "Vapen",
+          "model": "DETOY 12000",
+          "puffs": 12000,
+          "flavors": [
+            "Blueberry Ice",
+            "Strawberry Kiwi",
+            "Strawberry Mango",
+            "Watermelon Ice",
+            "Cool Mint",
+            "Cherry Cola",
+            "Grape Ice",
+            "Peach Mango",
+            "Mixed Berries"
+          ],
+          "moq": null,
+          "unit_price_usd": 5.3,
+          "category": "disposable",
+          "confidence": "low"
+        },
+        {
+          "id": "vapen-switch-pen-30000",
+          "brand": "Vapen",
+          "model": "Switch Pen 30000",
+          "puffs": 30000,
+          "flavors": [
+            "Blueberry Ice",
+            "Strawberry Kiwi",
+            "Strawberry Mango",
+            "Watermelon Ice",
+            "Cool Mint",
+            "Grape Ice",
+            "Cherry Cola",
+            "Pineapple Ice",
+            "Mixed Berries"
+          ],
+          "moq": null,
+          "unit_price_usd": 7.1,
+          "category": "disposable",
+          "confidence": "low"
+        },
+        {
+          "id": "vapen-mega-10000",
+          "brand": "Vapen",
+          "model": "MEGA 10K",
+          "puffs": 10000,
+          "flavors": [
+            "Blueberry Ice",
+            "Strawberry Mango",
+            "Watermelon Ice",
+            "Cool Mint",
+            "Cherry Cola",
+            "Mixed Berries"
+          ],
+          "moq": null,
+          "unit_price_usd": 4.1,
+          "category": "disposable",
+          "confidence": "low"
+        },
+        {
+          "id": "vapen-flow",
+          "brand": "Vapen",
+          "model": "FLOW",
+          "puffs": null,
+          "flavors": [
+            "Blueberry Ice",
+            "Strawberry Kiwi",
+            "Mixed Berries",
+            "Watermelon Ice",
+            "Cool Mint"
+          ],
+          "moq": null,
+          "unit_price_usd": 3.8,
+          "category": "disposable",
+          "confidence": "low"
+        },
+        {
+          "id": "vapen-duo-40000",
+          "brand": "Vapen",
+          "model": "DUO 40000",
+          "puffs": 40000,
+          "flavors": [
+            "Strawberry Watermelon Bubble Gum",
+            "Strawberry Watermelon",
+            "Strawberry Kiwi",
+            "Blueberry Ice",
+            "Watermelon Ice",
+            "Cool Mint",
+            "Mixed Berries"
+          ],
+          "moq": null,
+          "unit_price_usd": 7.2,
+          "category": "disposable",
+          "confidence": "low"
+        },
+        {
+          "id": "vapen-titan-x",
+          "brand": "Vapen",
+          "model": "TITAN X",
+          "puffs": null,
+          "flavors": [
+            "Watermelon Ice",
+            "Strawberry Kiwi",
+            "Blueberry Ice",
+            "Mixed Berries",
+            "Cool Mint"
+          ],
+          "moq": null,
+          "unit_price_usd": 5.4,
+          "category": "disposable",
+          "confidence": "low"
+        },
+        {
+          "id": "vapen-detroyx",
+          "brand": "Vapen",
+          "model": "DETROY X",
+          "puffs": null,
+          "flavors": [
+            "Blueberry Ice",
+            "Watermelon Ice",
+            "Strawberry Mango",
+            "Mixed Berries"
+          ],
+          "moq": null,
+          "unit_price_usd": 5.9,
+          "category": "disposable",
+          "confidence": "low"
+        },
+        {
+          "id": "vapen-storm-pro",
+          "brand": "Vapen",
+          "model": "STORM PRO",
+          "puffs": null,
+          "flavors": [
+            "Watermelon Ice",
+            "Strawberry Kiwi",
+            "Blueberry Ice",
+            "Mixed Berries"
+          ],
+          "moq": null,
+          "unit_price_usd": 6.1,
+          "category": "disposable",
+          "confidence": "low"
+        },
+        {
+          "id": "vapen-r-liquid",
+          "brand": "Vapen",
+          "model": "R-LIQUID",
+          "puffs": null,
+          "flavors": [
+            "Blueberry Raspberry",
+            "Strawberry Pineapple",
+            "Watermelon Ice",
+            "Mixed Berries"
+          ],
+          "moq": null,
+          "unit_price_usd": 3.2,
+          "category": "e-liquid",
+          "confidence": "low"
+        },
+        {
+          "id": "vapen-titan-48000",
+          "brand": "Vapen",
+          "model": "TITAN 48000",
+          "puffs": 48000,
+          "flavors": [
+            "Strawberry Watermelon",
+            "Strawberry Kiwi",
+            "Blueberry Ice",
+            "Watermelon Ice",
+            "Mixed Berries",
+            "Cool Mint"
+          ],
+          "moq": null,
+          "unit_price_usd": 8.0,
+          "category": "disposable",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "id": "waspe",
+      "name": "WASPE",
+      "products": [
+        {
+          "id": "waspe-arya-100k",
+          "brand": "WASPE",
+          "model": "ARYA 100K",
+          "puffs": 100000,
+          "flavors": [
+            "Watermelon Ice",
+            "Cool Mint",
+            "Blueberry Ice",
+            "Strawberry Kiwi",
+            "Strawberry Mango",
+            "Cherry Cola",
+            "Peach Mango Watermelon",
+            "Mixed Berries",
+            "Grape Ice"
+          ],
+          "moq": null,
+          "unit_price_usd": 7.2,
+          "category": "disposable",
+          "confidence": "low"
+        },
+        {
+          "id": "waspe-arya-150k",
+          "brand": "WASPE",
+          "model": "ARYA 150K",
+          "puffs": 150000,
+          "flavors": [
+            "Watermelon Ice",
+            "Cool Mint",
+            "Blueberry Ice",
+            "Strawberry Kiwi",
+            "Strawberry Mango",
+            "Cherry Cola",
+            "Peach Mango Watermelon",
+            "Mixed Berries"
+          ],
+          "moq": null,
+          "unit_price_usd": 8.1,
+          "category": "disposable",
+          "confidence": "low"
+        },
+        {
+          "id": "waspe-zora",
+          "brand": "WASPE",
+          "model": "ZORA",
+          "puffs": null,
+          "flavors": [
+            "Blueberry Ice",
+            "Strawberry Kiwi",
+            "Watermelon Ice",
+            "Cool Mint",
+            "Mixed Berries"
+          ],
+          "moq": null,
+          "unit_price_usd": 5.8,
+          "category": "disposable",
+          "confidence": "low"
+        },
+        {
+          "id": "waspe-iris",
+          "brand": "WASPE",
+          "model": "IRIS",
+          "puffs": null,
+          "flavors": [
+            "Watermelon Ice",
+            "Blueberry Ice",
+            "Strawberry Kiwi",
+            "Mixed Berries",
+            "Cool Mint"
+          ],
+          "moq": null,
+          "unit_price_usd": 5.6,
+          "category": "disposable",
+          "confidence": "low"
+        },
+        {
+          "id": "waspe-eris",
+          "brand": "WASPE",
+          "model": "ERIS",
+          "puffs": null,
+          "flavors": [
+            "Blueberry Ice",
+            "Strawberry Mango",
+            "Watermelon Ice",
+            "Cool Mint",
+            "Mixed Berries"
+          ],
+          "moq": null,
+          "unit_price_usd": 5.4,
+          "category": "disposable",
+          "confidence": "low"
+        },
+        {
+          "id": "waspe-aria",
+          "brand": "WASPE",
+          "model": "ARIA",
+          "puffs": null,
+          "flavors": [
+            "Watermelon Ice",
+            "Strawberry Kiwi",
+            "Blueberry Ice",
+            "Cool Mint",
+            "Mixed Berries"
+          ],
+          "moq": null,
+          "unit_price_usd": 6.3,
+          "category": "disposable",
+          "confidence": "low"
+        },
+        {
+          "id": "waspe-bri",
+          "brand": "WASPE",
+          "model": "BRI",
+          "puffs": null,
+          "flavors": [
+            "Watermelon Ice",
+            "Strawberry Mango",
+            "Blueberry Ice",
+            "Cool Mint",
+            "Mixed Berries"
+          ],
+          "moq": null,
+          "unit_price_usd": 4.8,
+          "category": "disposable",
+          "confidence": "low"
+        }
+      ]
+    }
+  ]
+}

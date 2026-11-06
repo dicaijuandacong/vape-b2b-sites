@@ -1,0 +1,523 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+@custom-variant dark (&:is(.dark *));
+
+/* =========================================================================
+   PALETTE — TECH BLUE (Linear / Notion cold-geek aesthetic, LIGHT theme):
+   - off-white slate backdrop (#F8FAFC), pure white cards
+   - single tech-blue primary (#2563EB), pale blue accents (#93C5FD)
+   - deep slate text (#1E293B), muted slate for secondary (#64748B)
+   - hairline borders (#E2E8F0). Clean, trustworthy, SaaS-grade.
+   ========================================================================= */
+:root {
+  --background: #F8FAFC;
+  --foreground: #1E293B;
+
+  --card: #ffffff;
+  --card-foreground: #1E293B;
+
+  --popover: #ffffff;
+  --popover-foreground: #1E293B;
+
+  --primary: #2563EB;
+  --primary-foreground: #ffffff;
+
+  --secondary: #EFF4FB;
+  --secondary-foreground: #2563EB;
+
+  --accent: #2563EB;
+  --accent-foreground: #ffffff;
+
+  --muted: #F1F5F9;
+  --muted-foreground: #64748B;
+
+  --border: #E2E8F0;
+  --input: #E2E8F0;
+  --ring: #2563EB;
+
+  --destructive: #ef4444;
+  --destructive-foreground: #ffffff;
+  --warning: #f5c518;
+  --warning-foreground: #1E293B;
+  --success: #34d399;
+  --success-foreground: #1E293B;
+
+  --radius: 1rem;
+}
+
+/* =========================================================================
+   DARK — mirrors :root (this site ships light-only; the class is never set,
+   but we keep the block coherent in case it is ever toggled).
+   ========================================================================= */
+.dark {
+  --background: #F8FAFC;
+  --foreground: #1E293B;
+
+  --card: #ffffff;
+  --card-foreground: #1E293B;
+
+  --popover: #ffffff;
+  --popover-foreground: #1E293B;
+
+  --primary: #2563EB;
+  --primary-foreground: #ffffff;
+
+  --secondary: #EFF4FB;
+  --secondary-foreground: #2563EB;
+
+  --accent: #2563EB;
+  --accent-foreground: #ffffff;
+
+  --muted: #F1F5F9;
+  --muted-foreground: #64748B;
+
+  --border: #E2E8F0;
+  --input: #E2E8F0;
+  --ring: #2563EB;
+
+  --destructive: #f43f5e;
+  --destructive-foreground: #ffffff;
+  --warning: #f5c518;
+  --warning-foreground: #1E293B;
+  --success: #34d399;
+  --success-foreground: #1E293B;
+}
+
+/* =========================================================================
+   Tailwind v4 theme mapping
+   ========================================================================= */
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-warning: var(--warning);
+  --color-warning-foreground: var(--warning-foreground);
+  --color-success: var(--success);
+  --color-success-foreground: var(--success-foreground);
+
+  --font-sans: var(--font-sans);
+  --font-display: var(--font-display);
+  --font-mono: var(--font-mono);
+
+  --radius-sm: 0.5rem;
+  --radius-md: 0.75rem;
+  --radius-lg: 1rem;
+  --radius-xl: 1.5rem;
+  --radius-2xl: 2rem;
+}
+
+/* =========================================================================
+   Base styles
+   ========================================================================= */
+@layer base {
+  * {
+    border-color: var(--border);
+  }
+
+  html {
+    -webkit-text-size-adjust: 100%;
+  }
+
+  body {
+    background-color: var(--background);
+    color: var(--foreground);
+    font-feature-settings: "ss01", "cv01";
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  ::selection {
+    background: var(--primary);
+    color: var(--primary-foreground);
+  }
+}
+
+/* =========================================================================
+   Custom utilities — single accent, restrained
+   ========================================================================= */
+@utility glow-primary {
+  box-shadow: 0 0 36px -8px rgba(37, 99, 235, 0.35);
+}
+
+@utility text-gradient-primary {
+  background: linear-gradient(90deg, #1D4ED8 0%, #60A5FA 80%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+@utility font-display {
+  font-family: var(--font-display), ui-sans-serif, system-ui, sans-serif;
+  letter-spacing: -0.01em;
+}
+
+@utility font-mono {
+  font-family: var(--font-mono), ui-monospace, monospace;
+  font-feature-settings: "tnum" 1;
+}
+
+@utility neon-ring {
+  box-shadow:
+    0 0 0 1px rgba(37, 99, 235, 0.6),
+    0 0 24px -4px rgba(37, 99, 235, 0.45);
+}
+
+@utility neon-border {
+  border-color: rgba(37, 99, 235, 0.55);
+  box-shadow: 0 0 18px -4px rgba(37, 99, 235, 0.35);
+}
+
+/* =========================================================================
+   Motion — disabled when user prefers-reduced-motion
+   ========================================================================= */
+
+@keyframes shimmer-sweep {
+  0%   { transform: translateX(-100%); }
+  60%  { transform: translateX(120%); }
+  100% { transform: translateX(120%); }
+}
+
+@keyframes ellipse-spin {
+  from { transform: rotate(-12deg); }
+  to   { transform: rotate(348deg); }
+}
+
+@keyframes ellipse-spin-fast {
+  from { transform: rotate(-12deg); }
+  to   { transform: rotate(348deg); }
+}
+
+@keyframes ring-spin {
+  from { transform: rotate(0deg); }
+  to   { transform: rotate(360deg); }
+}
+
+/* Page-load entry — stagger fade for hero block (more visible).
+   Each child sets its own --i (0..n) and gets 130ms delay × i. */
+@keyframes hero-rise {
+  from {
+    opacity: 0;
+    transform: translateY(28px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@utility hero-stagger {
+  --i: 0;
+  animation: hero-rise 0.85s cubic-bezier(0.22, 1, 0.36, 1) both;
+  animation-delay: calc(var(--i) * 130ms);
+}
+
+/* Card drop-in for hero card wall — bigger entry */
+@keyframes card-drop {
+  from {
+    opacity: 0;
+    transform: translateY(-32px) scale(0.94);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+@utility card-drop {
+  --i: 0;
+  animation: card-drop 0.9s cubic-bezier(0.16, 1, 0.3, 1) both;
+  animation-delay: calc(140ms + var(--i) * 110ms);
+}
+
+/* Pulsing neon glow — LIVE badges breathe */
+@keyframes neon-pulse {
+  0%, 100% {
+    box-shadow:
+      0 0 0 0 rgba(37, 99, 235, 0.45),
+      0 0 18px -2px rgba(37, 99, 235, 0.55);
+  }
+  50% {
+    box-shadow:
+      0 0 0 6px rgba(37, 99, 235, 0),
+      0 0 32px 2px rgba(37, 99, 235, 0.85);
+  }
+}
+
+@utility neon-pulse {
+  animation: neon-pulse 1.8s ease-in-out infinite;
+}
+
+/* Scroll-driven section reveal — modern Chrome/Safari TP. Falls back
+   silently to "always visible" in older browsers. */
+@keyframes scroll-reveal {
+  from {
+    opacity: 0;
+    transform: translateY(36px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@supports (animation-timeline: view()) {
+  .reveal-on-scroll {
+    animation: scroll-reveal linear both;
+    animation-timeline: view();
+    animation-range: entry 0% cover 25%;
+  }
+}
+
+/* Hero background mesh — 3 lime blobs drifting slowly */
+@keyframes mesh-drift-a {
+  0%, 100% { transform: translate(-10%, -8%) scale(1); }
+  50%      { transform: translate(8%, 12%)   scale(1.15); }
+}
+@keyframes mesh-drift-b {
+  0%, 100% { transform: translate(15%, 5%)   scale(1.05); }
+  50%      { transform: translate(-12%, -10%) scale(0.95); }
+}
+@keyframes mesh-drift-c {
+  0%, 100% { transform: translate(-5%, 15%)  scale(1); }
+  50%      { transform: translate(12%, -8%)   scale(1.2); }
+}
+
+@utility mesh-blob-a { animation: mesh-drift-a 22s ease-in-out infinite; }
+@utility mesh-blob-b { animation: mesh-drift-b 28s ease-in-out infinite; }
+@utility mesh-blob-c { animation: mesh-drift-c 18s ease-in-out infinite; }
+
+/* Floating particles in Hero */
+@keyframes particle-float {
+  0%, 100% { transform: translate3d(0, 0, 0) scale(1); opacity: 0.25; }
+  25%      { transform: translate3d(20px, -30px, 0) scale(1.4); opacity: 0.6; }
+  50%      { transform: translate3d(-15px, -50px, 0) scale(0.8); opacity: 0.45; }
+  75%      { transform: translate3d(10px, -25px, 0) scale(1.2); opacity: 0.55; }
+}
+
+/* Headline shimmer sweep — lime light passes across the gradient text every 6s */
+@keyframes headline-sweep {
+  0%   { background-position: -150% 50%; }
+  100% { background-position:  250% 50%; }
+}
+
+@utility headline-sweep {
+  background-image: linear-gradient(
+    100deg,
+    #2563EB 0%,
+    #2563EB 38%,
+    #93C5FD 50%,
+    #2563EB 62%,
+    #2563EB 100%
+  );
+  background-size: 250% 100%;
+  background-position: -150% 50%;
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  animation: headline-sweep 5s ease-in-out infinite;
+  animation-delay: 1.4s;
+}
+
+/* Infinite horizontal label scroller — brutalist NFT marketplace */
+@keyframes infinite-label {
+  0%   { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+
+/* Conic-gradient border-trace glow — light traces around card edge on hover */
+@keyframes border-trace {
+  0%   { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+@utility border-trace {
+  position: relative;
+}
+
+.border-trace::before {
+  content: "";
+  position: absolute;
+  inset: -1px;
+  border-radius: inherit;
+  padding: 1.5px;
+  background: conic-gradient(
+    from 0deg,
+    transparent 0%,
+    transparent 60%,
+    rgba(37, 99, 235, 0.9) 75%,
+    rgba(255, 255, 255, 0.5) 80%,
+    rgba(37, 99, 235, 0.9) 85%,
+    transparent 100%
+  );
+  -webkit-mask:
+    linear-gradient(#000 0 0) content-box,
+    linear-gradient(#000 0 0);
+  -webkit-mask-composite: xor;
+          mask-composite: exclude;
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 220ms ease;
+}
+
+.border-trace:hover::before {
+  opacity: 1;
+  animation: border-trace 2.4s linear infinite;
+}
+
+/* Universal hover lift+glow for cards. Apply to BrandsGrid / TopMovers / FeaturedProducts. */
+@utility tilt-card {
+  transition:
+    transform 350ms cubic-bezier(0.22, 1, 0.36, 1),
+    box-shadow 350ms cubic-bezier(0.22, 1, 0.36, 1),
+    border-color 250ms ease;
+  will-change: transform;
+}
+
+.tilt-card:hover {
+  transform: translateY(-6px) scale(1.012);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .tilt-card:hover {
+    transform: none !important;
+  }
+  .card-drop,
+  .hero-stagger,
+  .neon-pulse,
+  .reveal-on-scroll {
+    animation: none !important;
+    opacity: 1 !important;
+    transform: none !important;
+  }
+}
+
+/* Subtle eyebrow letter-spacing breathing — 6s cycle, 0.18 → 0.20 → 0.18 */
+@keyframes eyebrow-breathe {
+  0%, 100% { letter-spacing: 0.18em; }
+  50%      { letter-spacing: 0.21em; }
+}
+
+@utility eyebrow-breathe {
+  animation: eyebrow-breathe 6s ease-in-out infinite;
+}
+
+/* Underline-from-left for footer + nav links */
+@utility link-underline {
+  position: relative;
+  display: inline-block;
+}
+
+.link-underline::after {
+  content: "";
+  position: absolute;
+  inset: auto 0 -2px 0;
+  height: 1.5px;
+  width: 100%;
+  background: currentColor;
+  transform: scaleX(0);
+  transform-origin: left center;
+  transition: transform 280ms cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+.link-underline:hover::after {
+  transform: scaleX(1);
+}
+
+/* Tiny ambient noise — 3% opacity, fixed-position SVG-encoded grain */
+.ambient-noise::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: 1;
+  pointer-events: none;
+  opacity: 0.03;
+  mix-blend-mode: overlay;
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='240' height='240'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='0.95' numOctaves='2' stitchTiles='stitch'/></filter><rect width='100%25' height='100%25' filter='url(%23n)'/></svg>");
+}
+
+/**
+ * Lime button shimmer — a translucent white sweep on hover.
+ * Apply via the `.btn-shimmer` class on any bg-primary button.
+ */
+@utility btn-shimmer {
+  position: relative;
+  overflow: hidden;
+  isolation: isolate;
+}
+
+.btn-shimmer::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    100deg,
+    transparent 0%,
+    transparent 35%,
+    rgba(255, 255, 255, 0.55) 50%,
+    transparent 65%,
+    transparent 100%
+  );
+  transform: translateX(-100%);
+  pointer-events: none;
+  z-index: 1;
+}
+
+.btn-shimmer:hover::before {
+  animation: shimmer-sweep 1100ms cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+@utility ellipse-spin {
+  animation: ellipse-spin 22s linear infinite;
+  transform-origin: center;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .btn-shimmer::before,
+  [class*="ellipse-spin"],
+  [style*="ring-spin"] {
+    animation: none !important;
+  }
+}
+
+/* =========================================================================
+   EUROPE — "Engineering Spec / Bento" signatures
+   ========================================================================= */
+.bento-tile {
+  transition: border-color 0.2s ease, transform 0.2s ease;
+}
+.bento-tile:hover {
+  border-color: color-mix(in srgb, var(--color-primary) 45%, var(--color-border));
+}
+
+/* Inner-page product card hover — tech blue, subtle on light */
+.card-hover { transition: transform .25s ease, border-color .25s ease, box-shadow .25s ease; }
+.card-hover:hover { border-color: color-mix(in srgb, var(--color-primary) 40%, transparent); box-shadow: 0 16px 40px -24px rgba(37,99,235,0.18); transform: translateY(-2px); }
+
+/* Unified section eyebrow — mono spec label */
+.section-eyebrow { display: inline-flex; align-items: center; gap: .5rem; font-family: var(--font-mono), ui-monospace, monospace; font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: .2em; color: var(--color-primary); }
+.section-eyebrow::before { content: "›"; opacity: .7; }

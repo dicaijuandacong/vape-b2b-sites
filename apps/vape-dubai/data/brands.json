@@ -1,0 +1,100 @@
+[
+  {
+    "id": "vozol",
+    "name": "VOZOL",
+    "tagline": "Refined craftsmanship, big-puff devices",
+    "slug": "vozol",
+    "product_count": 6
+  },
+  {
+    "id": "vapen",
+    "name": "Vapen",
+    "tagline": "Sleek pod systems with sharp design",
+    "slug": "vapen",
+    "product_count": 11
+  },
+  {
+    "id": "waspe",
+    "name": "WASPE",
+    "tagline": "Bold flavor, daily-driver disposables",
+    "slug": "waspe",
+    "product_count": 7
+  },
+  {
+    "id": "fumot",
+    "name": "FUMOT",
+    "tagline": "Tornado, MaxStar and the Looper line",
+    "slug": "fumot",
+    "product_count": 8
+  },
+  {
+    "id": "jnr",
+    "name": "JNR",
+    "tagline": "Falcon, Magic Vape and 40K+ flagship",
+    "slug": "jnr",
+    "product_count": 13
+  },
+  {
+    "id": "razzbar",
+    "name": "Razzbar",
+    "tagline": "Razz Bar 30K → 65K+ rechargeable lineup",
+    "slug": "razzbar",
+    "product_count": 11
+  },
+  {
+    "id": "vapme",
+    "name": "VAPME",
+    "tagline": "Crystal, Digital and Shisha-style devices",
+    "slug": "vapme",
+    "product_count": 9
+  },
+  {
+    "id": "aaok",
+    "name": "AAOK",
+    "tagline": "AAOK wholesale vape distributor",
+    "slug": "aaok",
+    "product_count": 4
+  },
+  {
+    "id": "airmez",
+    "name": "AiRMEZ",
+    "tagline": "AiRMEZ wholesale vape distributor",
+    "slug": "airmez",
+    "product_count": 1
+  },
+  {
+    "id": "poco",
+    "name": "POCO",
+    "tagline": "POCO wholesale vape distributor",
+    "slug": "poco",
+    "product_count": 2
+  },
+  {
+    "id": "mfu",
+    "name": "MFU",
+    "tagline": "MFU wholesale vape distributor",
+    "slug": "mfu",
+    "product_count": 1
+  },
+  {
+    "id": "vapsolo",
+    "name": "VAPSOLO",
+    "tagline": "VAPSOLO wholesale vape distributor",
+    "slug": "vapsolo",
+    "product_count": 1
+  },
+  {
+    "id": "solaris",
+    "name": "SOLARIS",
+    "tagline": "SOLARIS wholesale vape distributor",
+    "slug": "solaris",
+    "product_count": 1
+  },
+  {
+    "id": "vhill",
+    "name": "VHILL",
+    "tagline": "VHILL wholesale vape distributor",
+    "slug": "vhill",
+    "product_count": 4
+  }
+]

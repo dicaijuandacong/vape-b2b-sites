@@ -1,0 +1,841 @@
+#          + 54 per-SKU fallback images
+# TOTAL: 54 SKUs × variable flavors = 658 per-flavor images
+
+# Vaporforge EU — expected per-flavor image filenames
+# Generated 2026-05-10T12:12:09.352Z
+# Drop matching PNGs into public/generated/ — site auto-detects.
+# Naming convention: product-{sku-id}-{flavor-kebab}.png
+
+# ===== VOZOL (6 SKUs) =====
+
+# VOZOL STAR 6000  (id: vozol-star-6000)  18 flavors
+product-vozol-star-6000.png   # SKU-level fallback (already exists for top movers)
+product-vozol-star-6000-watermelon-ice.png
+product-vozol-star-6000-cherry-cola.png
+product-vozol-star-6000-strawberry-kiwi.png
+product-vozol-star-6000-strawberry-mango.png
+product-vozol-star-6000-strawberry-ice-cream.png
+product-vozol-star-6000-strawberry-watermelon.png
+product-vozol-star-6000-blueberry-ice.png
+product-vozol-star-6000-blueberry-raspberry.png
+product-vozol-star-6000-blueberry-sour-raspberry.png
+product-vozol-star-6000-mango-peach-watermelon.png
+product-vozol-star-6000-peach-ice.png
+product-vozol-star-6000-tropical-fruit.png
+product-vozol-star-6000-mixed-berries.png
+product-vozol-star-6000-grape-ice.png
+product-vozol-star-6000-cool-mint.png
+product-vozol-star-6000-mango-passion-fruit.png
+product-vozol-star-6000-watermelon-bubble-gum.png
+product-vozol-star-6000-kiwi-passion-fruit.png
+
+# VOZOL GEAR 10000  (id: vozol-gear-10000)  15 flavors
+product-vozol-gear-10000.png   # SKU-level fallback (already exists for top movers)
+product-vozol-gear-10000-blueberry-ice.png
+product-vozol-gear-10000-cool-mint.png
+product-vozol-gear-10000-pineapple-ice.png
+product-vozol-gear-10000-watermelon-ice.png
+product-vozol-gear-10000-strawberry-mango.png
+product-vozol-gear-10000-strawberry-kiwi.png
+product-vozol-gear-10000-strawberry-banana.png
+product-vozol-gear-10000-strawberry-watermelon.png
+product-vozol-gear-10000-blueberry-raspberry.png
+product-vozol-gear-10000-mango-peach-watermelon.png
+product-vozol-gear-10000-peach-ice.png
+product-vozol-gear-10000-grape-ice.png
+product-vozol-gear-10000-cherry-cola.png
+product-vozol-gear-10000-watermelon-bubble-gum.png
+product-vozol-gear-10000-mixed-berries.png
+
+# VOZOL VISTA 10000  (id: vozol-vista-10000)  11 flavors
+product-vozol-vista-10000.png   # SKU-level fallback (already exists for top movers)
+product-vozol-vista-10000-blueberry-ice.png
+product-vozol-vista-10000-peach-berry.png
+product-vozol-vista-10000-strawberry-kiwi.png
+product-vozol-vista-10000-strawberry-mango.png
+product-vozol-vista-10000-watermelon-ice.png
+product-vozol-vista-10000-cool-mint.png
+product-vozol-vista-10000-cherry-cola.png
+product-vozol-vista-10000-mango-peach-watermelon.png
+product-vozol-vista-10000-tropical-fruit.png
+product-vozol-vista-10000-grape-ice.png
+product-vozol-vista-10000-mixed-berries.png
+
+# VOZOL NEON 800  (id: vozol-neon-800)  17 flavors
+product-vozol-neon-800.png   # SKU-level fallback (already exists for top movers)
+product-vozol-neon-800-berry-cherry-lime.png
+product-vozol-neon-800-berry-mint.png
+product-vozol-neon-800-blue-raz-ice.png
+product-vozol-neon-800-blueberry-watermelon.png
+product-vozol-neon-800-cherry-cola.png
+product-vozol-neon-800-cherry-berry.png
+product-vozol-neon-800-cranberry-ice.png
+product-vozol-neon-800-dragon-fruit-banana-cherry.png
+product-vozol-neon-800-frozen-strawberry-kiwi.png
+product-vozol-neon-800-grape-watermelon.png
+product-vozol-neon-800-hawaiian-pineapple-paradise.png
+product-vozol-neon-800-lemon-tart.png
+product-vozol-neon-800-mixed-berries.png
+product-vozol-neon-800-strawberry-banana.png
+product-vozol-neon-800-strawberry-raspberry-cherry.png
+product-vozol-neon-800-watermelon-bubble-gum.png
+product-vozol-neon-800-watermelon-razz-banana.png
+
+# VOZOL STAR BB Saver 5000  (id: vozol-star-bb-saver-5000)  15 flavors
+product-vozol-star-bb-saver-5000.png   # SKU-level fallback (already exists for top movers)
+product-vozol-star-bb-saver-5000-blueberry-grapefruit.png
+product-vozol-star-bb-saver-5000-blueberry-ice.png
+product-vozol-star-bb-saver-5000-blueberry-watermelon.png
+product-vozol-star-bb-saver-5000-blueberry-raspberry.png
+product-vozol-star-bb-saver-5000-cherry-cola.png
+product-vozol-star-bb-saver-5000-strawberry-ice-cream.png
+product-vozol-star-bb-saver-5000-strawberry-kiwi.png
+product-vozol-star-bb-saver-5000-strawberry-mango.png
+product-vozol-star-bb-saver-5000-strawberry-watermelon.png
+product-vozol-star-bb-saver-5000-cool-mint.png
+product-vozol-star-bb-saver-5000-mango-peach-watermelon.png
+product-vozol-star-bb-saver-5000-peach-ice.png
+product-vozol-star-bb-saver-5000-grape-ice.png
+product-vozol-star-bb-saver-5000-mixed-berries.png
+product-vozol-star-bb-saver-5000-watermelon-bubble-gum.png
+
+# VOZOL STAR Click 12000  (id: vozol-star-click-12000)  15 flavors
+product-vozol-star-click-12000.png   # SKU-level fallback (already exists for top movers)
+product-vozol-star-click-12000-watermelon-ice.png
+product-vozol-star-click-12000-blue-razz-ice.png
+product-vozol-star-click-12000-cool-mint.png
+product-vozol-star-click-12000-pineapple-ice.png
+product-vozol-star-click-12000-grape-ice.png
+product-vozol-star-click-12000-strawberry-mango.png
+product-vozol-star-click-12000-strawberry-kiwi.png
+product-vozol-star-click-12000-strawberry-watermelon.png
+product-vozol-star-click-12000-strawberry-banana.png
+product-vozol-star-click-12000-peach-mango-watermelon.png
+product-vozol-star-click-12000-peach-berry.png
+product-vozol-star-click-12000-blueberry-watermelon.png
+product-vozol-star-click-12000-blueberry-raspberry.png
+product-vozol-star-click-12000-cherry-cola.png
+product-vozol-star-click-12000-mixed-berries.png
+
+# ===== Vapen (11 SKUs) =====
+
+# Vapen AURA 10000  (id: vapen-aura-10000)  9 flavors
+product-vapen-aura-10000.png   # SKU-level fallback (already exists for top movers)
+product-vapen-aura-10000-lemon-lime.png
+product-vapen-aura-10000-strawberry-vanilla-cake.png
+product-vapen-aura-10000-blueberry-ice.png
+product-vapen-aura-10000-mango-peach.png
+product-vapen-aura-10000-strawberry-kiwi.png
+product-vapen-aura-10000-watermelon-bubble-gum.png
+product-vapen-aura-10000-pineapple-coconut.png
+product-vapen-aura-10000-cherry-cola.png
+product-vapen-aura-10000-mixed-berries.png
+
+# Vapen DETOY 12000  (id: vapen-detoy-12000)  9 flavors
+product-vapen-detoy-12000.png   # SKU-level fallback (already exists for top movers)
+product-vapen-detoy-12000-blueberry-ice.png
+product-vapen-detoy-12000-strawberry-kiwi.png
+product-vapen-detoy-12000-strawberry-mango.png
+product-vapen-detoy-12000-watermelon-ice.png
+product-vapen-detoy-12000-cool-mint.png
+product-vapen-detoy-12000-cherry-cola.png
+product-vapen-detoy-12000-grape-ice.png
+product-vapen-detoy-12000-peach-mango.png
+product-vapen-detoy-12000-mixed-berries.png
+
+# Vapen Switch Pen 30000  (id: vapen-switch-pen-30000)  9 flavors
+product-vapen-switch-pen-30000.png   # SKU-level fallback (already exists for top movers)
+product-vapen-switch-pen-30000-blueberry-ice.png
+product-vapen-switch-pen-30000-strawberry-kiwi.png
+product-vapen-switch-pen-30000-strawberry-mango.png
+product-vapen-switch-pen-30000-watermelon-ice.png
+product-vapen-switch-pen-30000-cool-mint.png
+product-vapen-switch-pen-30000-grape-ice.png
+product-vapen-switch-pen-30000-cherry-cola.png
+product-vapen-switch-pen-30000-pineapple-ice.png
+product-vapen-switch-pen-30000-mixed-berries.png
+
+# Vapen MEGA 10K  (id: vapen-mega-10000)  6 flavors
+product-vapen-mega-10000.png   # SKU-level fallback (already exists for top movers)
+product-vapen-mega-10000-blueberry-ice.png
+product-vapen-mega-10000-strawberry-mango.png
+product-vapen-mega-10000-watermelon-ice.png
+product-vapen-mega-10000-cool-mint.png
+product-vapen-mega-10000-cherry-cola.png
+product-vapen-mega-10000-mixed-berries.png
+
+# Vapen FLOW  (id: vapen-flow)  5 flavors
+product-vapen-flow.png   # SKU-level fallback (already exists for top movers)
+product-vapen-flow-blueberry-ice.png
+product-vapen-flow-strawberry-kiwi.png
+product-vapen-flow-mixed-berries.png
+product-vapen-flow-watermelon-ice.png
+product-vapen-flow-cool-mint.png
+
+# Vapen DUO 40000  (id: vapen-duo-40000)  7 flavors
+product-vapen-duo-40000.png   # SKU-level fallback (already exists for top movers)
+product-vapen-duo-40000-strawberry-watermelon-bubble-gum.png
+product-vapen-duo-40000-strawberry-watermelon.png
+product-vapen-duo-40000-strawberry-kiwi.png
+product-vapen-duo-40000-blueberry-ice.png
+product-vapen-duo-40000-watermelon-ice.png
+product-vapen-duo-40000-cool-mint.png
+product-vapen-duo-40000-mixed-berries.png
+
+# Vapen TITAN X  (id: vapen-titan-x)  5 flavors
+product-vapen-titan-x.png   # SKU-level fallback (already exists for top movers)
+product-vapen-titan-x-watermelon-ice.png
+product-vapen-titan-x-strawberry-kiwi.png
+product-vapen-titan-x-blueberry-ice.png
+product-vapen-titan-x-mixed-berries.png
+product-vapen-titan-x-cool-mint.png
+
+# Vapen DETROY X  (id: vapen-detroyx)  4 flavors
+product-vapen-detroyx.png   # SKU-level fallback (already exists for top movers)
+product-vapen-detroyx-blueberry-ice.png
+product-vapen-detroyx-watermelon-ice.png
+product-vapen-detroyx-strawberry-mango.png
+product-vapen-detroyx-mixed-berries.png
+
+# Vapen STORM PRO  (id: vapen-storm-pro)  4 flavors
+product-vapen-storm-pro.png   # SKU-level fallback (already exists for top movers)
+product-vapen-storm-pro-watermelon-ice.png
+product-vapen-storm-pro-strawberry-kiwi.png
+product-vapen-storm-pro-blueberry-ice.png
+product-vapen-storm-pro-mixed-berries.png
+
+# Vapen R-LIQUID  (id: vapen-r-liquid)  4 flavors
+product-vapen-r-liquid.png   # SKU-level fallback (already exists for top movers)
+product-vapen-r-liquid-blueberry-raspberry.png
+product-vapen-r-liquid-strawberry-pineapple.png
+product-vapen-r-liquid-watermelon-ice.png
+product-vapen-r-liquid-mixed-berries.png
+
+# Vapen TITAN 48000  (id: vapen-titan-48000)  6 flavors
+product-vapen-titan-48000.png   # SKU-level fallback (already exists for top movers)
+product-vapen-titan-48000-strawberry-watermelon.png
+product-vapen-titan-48000-strawberry-kiwi.png
+product-vapen-titan-48000-blueberry-ice.png
+product-vapen-titan-48000-watermelon-ice.png
+product-vapen-titan-48000-mixed-berries.png
+product-vapen-titan-48000-cool-mint.png
+
+# ===== WASPE (7 SKUs) =====
+
+# WASPE ARYA 100K  (id: waspe-arya-100k)  9 flavors
+product-waspe-arya-100k.png   # SKU-level fallback (already exists for top movers)
+product-waspe-arya-100k-watermelon-ice.png
+product-waspe-arya-100k-cool-mint.png
+product-waspe-arya-100k-blueberry-ice.png
+product-waspe-arya-100k-strawberry-kiwi.png
+product-waspe-arya-100k-strawberry-mango.png
+product-waspe-arya-100k-cherry-cola.png
+product-waspe-arya-100k-peach-mango-watermelon.png
+product-waspe-arya-100k-mixed-berries.png
+product-waspe-arya-100k-grape-ice.png
+
+# WASPE ARYA 150K  (id: waspe-arya-150k)  8 flavors
+product-waspe-arya-150k.png   # SKU-level fallback (already exists for top movers)
+product-waspe-arya-150k-watermelon-ice.png
+product-waspe-arya-150k-cool-mint.png
+product-waspe-arya-150k-blueberry-ice.png
+product-waspe-arya-150k-strawberry-kiwi.png
+product-waspe-arya-150k-strawberry-mango.png
+product-waspe-arya-150k-cherry-cola.png
+product-waspe-arya-150k-peach-mango-watermelon.png
+product-waspe-arya-150k-mixed-berries.png
+
+# WASPE ZORA  (id: waspe-zora)  5 flavors
+product-waspe-zora.png   # SKU-level fallback (already exists for top movers)
+product-waspe-zora-blueberry-ice.png
+product-waspe-zora-strawberry-kiwi.png
+product-waspe-zora-watermelon-ice.png
+product-waspe-zora-cool-mint.png
+product-waspe-zora-mixed-berries.png
+
+# WASPE IRIS  (id: waspe-iris)  5 flavors
+product-waspe-iris.png   # SKU-level fallback (already exists for top movers)
+product-waspe-iris-watermelon-ice.png
+product-waspe-iris-blueberry-ice.png
+product-waspe-iris-strawberry-kiwi.png
+product-waspe-iris-mixed-berries.png
+product-waspe-iris-cool-mint.png
+
+# WASPE ERIS  (id: waspe-eris)  5 flavors
+product-waspe-eris.png   # SKU-level fallback (already exists for top movers)
+product-waspe-eris-blueberry-ice.png
+product-waspe-eris-strawberry-mango.png
+product-waspe-eris-watermelon-ice.png
+product-waspe-eris-cool-mint.png
+product-waspe-eris-mixed-berries.png
+
+# WASPE ARIA  (id: waspe-aria)  5 flavors
+product-waspe-aria.png   # SKU-level fallback (already exists for top movers)
+product-waspe-aria-watermelon-ice.png
+product-waspe-aria-strawberry-kiwi.png
+product-waspe-aria-blueberry-ice.png
+product-waspe-aria-cool-mint.png
+product-waspe-aria-mixed-berries.png
+
+# WASPE BRI  (id: waspe-bri)  5 flavors
+product-waspe-bri.png   # SKU-level fallback (already exists for top movers)
+product-waspe-bri-watermelon-ice.png
+product-waspe-bri-strawberry-mango.png
+product-waspe-bri-blueberry-ice.png
+product-waspe-bri-cool-mint.png
+product-waspe-bri-mixed-berries.png
+
+# ===== FUMOT (6 SKUs) =====
+
+# FUMOT Tornado 14K  (id: fumot-tornado-14000)  16 flavors
+product-fumot-tornado-14000.png   # SKU-level fallback (already exists for top movers)
+product-fumot-tornado-14000-black-ice-dragon-fruit-strawberry.png
+product-fumot-tornado-14000-coca-loca.png
+product-fumot-tornado-14000-tropical-fruit.png
+product-fumot-tornado-14000-mixed-mango-pineapple.png
+product-fumot-tornado-14000-strawberry-watermelon-ice.png
+product-fumot-tornado-14000-blackberry-ice.png
+product-fumot-tornado-14000-sour-apple.png
+product-fumot-tornado-14000-blue-razz-cherry.png
+product-fumot-tornado-14000-strawberry-banana.png
+product-fumot-tornado-14000-blueberry-mint.png
+product-fumot-tornado-14000-pink-lemonade.png
+product-fumot-tornado-14000-peach-berry.png
+product-fumot-tornado-14000-summer-peach-ice.png
+product-fumot-tornado-14000-lush-ice.png
+product-fumot-tornado-14000-cherry-cola.png
+product-fumot-tornado-14000-cool-mint.png
+
+# FUMOT MaxStar 12K  (id: fumot-maxstar-12000)  16 flavors
+product-fumot-maxstar-12000.png   # SKU-level fallback (already exists for top movers)
+product-fumot-maxstar-12000-watermelon-ice.png
+product-fumot-maxstar-12000-mr-blue.png
+product-fumot-maxstar-12000-lush-ice.png
+product-fumot-maxstar-12000-strawberry-banana.png
+product-fumot-maxstar-12000-tropical-fruit.png
+product-fumot-maxstar-12000-mango-watermelon.png
+product-fumot-maxstar-12000-strawberry-mango.png
+product-fumot-maxstar-12000-cool-mint.png
+product-fumot-maxstar-12000-strawberry-pineapple.png
+product-fumot-maxstar-12000-cherry-cola.png
+product-fumot-maxstar-12000-mixed-berries.png
+product-fumot-maxstar-12000-peach-mango.png
+product-fumot-maxstar-12000-sour-apple.png
+product-fumot-maxstar-12000-mango-peach-pineapple.png
+product-fumot-maxstar-12000-blueberry-raspberry.png
+product-fumot-maxstar-12000-strawberry-banana-ice.png
+
+# FUMOT Tornado 9K  (id: fumot-tornado-9000)  16 flavors
+product-fumot-tornado-9000.png   # SKU-level fallback (already exists for top movers)
+product-fumot-tornado-9000-watermelon.png
+product-fumot-tornado-9000-lush-ice.png
+product-fumot-tornado-9000-strawberry-cherry.png
+product-fumot-tornado-9000-strawberry-banana.png
+product-fumot-tornado-9000-strawberry-mint.png
+product-fumot-tornado-9000-strawberry-vanilla.png
+product-fumot-tornado-9000-mango-vanilla.png
+product-fumot-tornado-9000-strawberry-pineapple-vanilla.png
+product-fumot-tornado-9000-watermelon-mint.png
+product-fumot-tornado-9000-lemon-lime.png
+product-fumot-tornado-9000-cool-mint.png
+product-fumot-tornado-9000-strawberry-mint.png
+product-fumot-tornado-9000-strawberry-pineapple.png
+product-fumot-tornado-9000-strawberry-banana.png
+product-fumot-tornado-9000-cherry-cola.png
+product-fumot-tornado-9000-pineapple-cola.png
+
+# FUMOT Looper 12K  (id: fumot-looper-12000)  16 flavors
+product-fumot-looper-12000.png   # SKU-level fallback (already exists for top movers)
+product-fumot-looper-12000-mixed-berries.png
+product-fumot-looper-12000-strawberry-watermelon.png
+product-fumot-looper-12000-strawberry-ice.png
+product-fumot-looper-12000-strawberry-pineapple-ice.png
+product-fumot-looper-12000-mango-peach-pure.png
+product-fumot-looper-12000-watermelon-ice.png
+product-fumot-looper-12000-cool-mint.png
+product-fumot-looper-12000-strawberry-mint.png
+product-fumot-looper-12000-strawberry-pineapple-ice.png
+product-fumot-looper-12000-berries-mix.png
+product-fumot-looper-12000-mango-watermelon.png
+product-fumot-looper-12000-apple-mint-sour-mango.png
+product-fumot-looper-12000-apple-mint-sour-mango-ice.png
+product-fumot-looper-12000-mango-peach-ice.png
+product-fumot-looper-12000-strawberry-pomegranate-ice.png
+product-fumot-looper-12000-cool-mint-apple-sour.png
+
+# FUMOT Mega Box 12K  (id: fumot-megabox-12000)  16 flavors
+product-fumot-megabox-12000.png   # SKU-level fallback (already exists for top movers)
+product-fumot-megabox-12000-blueberry-sour-raspberry.png
+product-fumot-megabox-12000-maxberry-grande.png
+product-fumot-megabox-12000-juicy-peach.png
+product-fumot-megabox-12000-lemon-blueberry.png
+product-fumot-megabox-12000-grape-ice.png
+product-fumot-megabox-12000-mixed-berries.png
+product-fumot-megabox-12000-pineapple-strawberry-ice.png
+product-fumot-megabox-12000-ice-breeze.png
+product-fumot-megabox-12000-rainbow-sherbet.png
+product-fumot-megabox-12000-juicy-apple.png
+product-fumot-megabox-12000-iced-vanilla.png
+product-fumot-megabox-12000-watermelon-ice.png
+product-fumot-megabox-12000-cherry-pomegranate.png
+product-fumot-megabox-12000-mango-strawberry.png
+product-fumot-megabox-12000-berry-burst.png
+product-fumot-megabox-12000-peach-lemon-tea.png
+
+# FUMOT Lumi ECO 12K  (id: fumot-lumi-eco-12000)  16 flavors
+product-fumot-lumi-eco-12000.png   # SKU-level fallback (already exists for top movers)
+product-fumot-lumi-eco-12000-blueberry-ice.png
+product-fumot-lumi-eco-12000-cool-mint.png
+product-fumot-lumi-eco-12000-strawberry-banana.png
+product-fumot-lumi-eco-12000-watermelon-ice.png
+product-fumot-lumi-eco-12000-lush-ice.png
+product-fumot-lumi-eco-12000-mango-peach.png
+product-fumot-lumi-eco-12000-strawberry-mango.png
+product-fumot-lumi-eco-12000-pineapple-coconut.png
+product-fumot-lumi-eco-12000-mixed-berries.png
+product-fumot-lumi-eco-12000-tropical-fruit.png
+product-fumot-lumi-eco-12000-cherry-cola.png
+product-fumot-lumi-eco-12000-lemon-tea.png
+product-fumot-lumi-eco-12000-cool-apple.png
+product-fumot-lumi-eco-12000-sour-apple.png
+product-fumot-lumi-eco-12000-grape-ice.png
+product-fumot-lumi-eco-12000-strawberry-watermelon.png
+
+# ===== JNR (11 SKUs) =====
+
+# JNR Falcon-X 14K  (id: jnr-falcon-x-14000)  16 flavors
+product-jnr-falcon-x-14000.png   # SKU-level fallback (already exists for top movers)
+product-jnr-falcon-x-14000-mr-blue.png
+product-jnr-falcon-x-14000-blueberry-raspberry.png
+product-jnr-falcon-x-14000-vodka-lime.png
+product-jnr-falcon-x-14000-pink-lemonade.png
+product-jnr-falcon-x-14000-cool-mint.png
+product-jnr-falcon-x-14000-mango-pineapple-ice.png
+product-jnr-falcon-x-14000-lush-ice.png
+product-jnr-falcon-x-14000-strawberry-banana.png
+product-jnr-falcon-x-14000-strawberry-watermelon.png
+product-jnr-falcon-x-14000-cherry-cola.png
+product-jnr-falcon-x-14000-apple-pineapple-lemon.png
+product-jnr-falcon-x-14000-tropical-mango.png
+product-jnr-falcon-x-14000-watermelon-bubble-gum.png
+product-jnr-falcon-x-14000-strawberry-kiwi.png
+product-jnr-falcon-x-14000-mixed-berries.png
+product-jnr-falcon-x-14000-mango-peach.png
+
+# JNR Falcon 15K  (id: jnr-falcon-15000)  16 flavors
+product-jnr-falcon-15000.png   # SKU-level fallback (already exists for top movers)
+product-jnr-falcon-15000-strawberry-kiwi.png
+product-jnr-falcon-15000-watermelon-ice.png
+product-jnr-falcon-15000-blue-razz.png
+product-jnr-falcon-15000-mango-lime.png
+product-jnr-falcon-15000-cherry-cola.png
+product-jnr-falcon-15000-strawberry-banana-ice.png
+product-jnr-falcon-15000-cool-mint.png
+product-jnr-falcon-15000-lush-ice.png
+product-jnr-falcon-15000-mango-peach-ice.png
+product-jnr-falcon-15000-pineapple-coconut.png
+product-jnr-falcon-15000-strawberry-pineapple.png
+product-jnr-falcon-15000-watermelon-bubble-gum.png
+product-jnr-falcon-15000-tropical-fruit.png
+product-jnr-falcon-15000-mixed-berries.png
+product-jnr-falcon-15000-peach-berry.png
+product-jnr-falcon-15000-sour-apple.png
+
+# JNR Mega Box 12K  (id: jnr-megabox-12000)  12 flavors
+product-jnr-megabox-12000.png   # SKU-level fallback (already exists for top movers)
+product-jnr-megabox-12000-blueberry-sour-raspberry.png
+product-jnr-megabox-12000-maxberry-grande.png
+product-jnr-megabox-12000-juicy-peach.png
+product-jnr-megabox-12000-lemon-blueberry.png
+product-jnr-megabox-12000-grape-ice.png
+product-jnr-megabox-12000-mixed-berries.png
+product-jnr-megabox-12000-pineapple-strawberry-ice.png
+product-jnr-megabox-12000-ice-breeze.png
+product-jnr-megabox-12000-rainbow-sherbet.png
+product-jnr-megabox-12000-juicy-apple.png
+product-jnr-megabox-12000-iced-vanilla.png
+product-jnr-megabox-12000-watermelon-ice.png
+
+# JNR Shisha Hookah Plus 27K  (id: jnr-shisha-hookah-27000)  12 flavors
+product-jnr-shisha-hookah-27000.png   # SKU-level fallback (already exists for top movers)
+product-jnr-shisha-hookah-27000-cool-mint.png
+product-jnr-shisha-hookah-27000-triple-mint.png
+product-jnr-shisha-hookah-27000-grape-ice.png
+product-jnr-shisha-hookah-27000-strawberry-mojito.png
+product-jnr-shisha-hookah-27000-blueberry-mojito.png
+product-jnr-shisha-hookah-27000-watermelon-mojito.png
+product-jnr-shisha-hookah-27000-apple-mojito.png
+product-jnr-shisha-hookah-27000-mango-pineapple.png
+product-jnr-shisha-hookah-27000-pina-colada.png
+product-jnr-shisha-hookah-27000-lush-ice.png
+product-jnr-shisha-hookah-27000-lemon-tea.png
+product-jnr-shisha-hookah-27000-mango-tango.png
+
+# JNR Royal Elite 15K  (id: jnr-royal-elite-15000)  12 flavors
+product-jnr-royal-elite-15000.png   # SKU-level fallback (already exists for top movers)
+product-jnr-royal-elite-15000-strawberry-kiwi.png
+product-jnr-royal-elite-15000-strawberry-banana.png
+product-jnr-royal-elite-15000-mr-pink.png
+product-jnr-royal-elite-15000-watermelon-ice.png
+product-jnr-royal-elite-15000-mango-peach-ice.png
+product-jnr-royal-elite-15000-cool-mint.png
+product-jnr-royal-elite-15000-cherry-cola.png
+product-jnr-royal-elite-15000-mixed-berries.png
+product-jnr-royal-elite-15000-strawberry-watermelon.png
+product-jnr-royal-elite-15000-lush-ice.png
+product-jnr-royal-elite-15000-peach-berry.png
+product-jnr-royal-elite-15000-tropical-fruit.png
+
+# JNR Alien 14K  (id: jnr-alien-14000)  12 flavors
+product-jnr-alien-14000.png   # SKU-level fallback (already exists for top movers)
+product-jnr-alien-14000-strawberry-watermelon-lemonade.png
+product-jnr-alien-14000-watermelon-bubble-gum.png
+product-jnr-alien-14000-pink-lemonade.png
+product-jnr-alien-14000-cherry-cola.png
+product-jnr-alien-14000-strawberry-cherry.png
+product-jnr-alien-14000-strawberry-mojito.png
+product-jnr-alien-14000-tropical-fruit.png
+product-jnr-alien-14000-strawberry-pineapple.png
+product-jnr-alien-14000-strawberry-banana.png
+product-jnr-alien-14000-watermelon-ice.png
+product-jnr-alien-14000-mango-peach-pineapple.png
+product-jnr-alien-14000-cool-mint.png
+
+# JNR Tank Pro 25K  (id: jnr-tank-pro-25000)  16 flavors
+product-jnr-tank-pro-25000.png   # SKU-level fallback (already exists for top movers)
+product-jnr-tank-pro-25000-blue-razz-cherry.png
+product-jnr-tank-pro-25000-blueberry-ice.png
+product-jnr-tank-pro-25000-cherry-cola.png
+product-jnr-tank-pro-25000-mr-pink.png
+product-jnr-tank-pro-25000-blueberry-cherry.png
+product-jnr-tank-pro-25000-blueberry-sour-raspberry.png
+product-jnr-tank-pro-25000-cherry-berry.png
+product-jnr-tank-pro-25000-double-apple.png
+product-jnr-tank-pro-25000-hawaii.png
+product-jnr-tank-pro-25000-mango-peach-pineapple.png
+product-jnr-tank-pro-25000-mr-blue.png
+product-jnr-tank-pro-25000-peach-mango-strawberry.png
+product-jnr-tank-pro-25000-strawberry-banana-ice.png
+product-jnr-tank-pro-25000-strawberry-ice.png
+product-jnr-tank-pro-25000-watermelon-ice.png
+product-jnr-tank-pro-25000-ice-mint.png
+
+# JNR Fox 10K  (id: jnr-fox-10000)  16 flavors
+product-jnr-fox-10000.png   # SKU-level fallback (already exists for top movers)
+product-jnr-fox-10000-blueberry-ice.png
+product-jnr-fox-10000-strawberry-ice.png
+product-jnr-fox-10000-watermelon-ice.png
+product-jnr-fox-10000-cool-mint.png
+product-jnr-fox-10000-mr-pink.png
+product-jnr-fox-10000-blue-razz-cherry.png
+product-jnr-fox-10000-cherry-cola.png
+product-jnr-fox-10000-grape-ice.png
+product-jnr-fox-10000-strawberry-watermelon.png
+product-jnr-fox-10000-strawberry-mango.png
+product-jnr-fox-10000-lush-ice.png
+product-jnr-fox-10000-mixed-berries.png
+product-jnr-fox-10000-peach-berry.png
+product-jnr-fox-10000-pineapple-coconut.png
+product-jnr-fox-10000-mango-peach.png
+product-jnr-fox-10000-tropical-fruit.png
+
+# JNR Aurora 27K  (id: jnr-aurora-27000)  10 flavors
+product-jnr-aurora-27000.png   # SKU-level fallback (already exists for top movers)
+product-jnr-aurora-27000-blueberry-red-raspberry.png
+product-jnr-aurora-27000-passion-fruit-kiwi.png
+product-jnr-aurora-27000-strawberry-banana.png
+product-jnr-aurora-27000-cherry-cola.png
+product-jnr-aurora-27000-watermelon-ice.png
+product-jnr-aurora-27000-tropical-fruit.png
+product-jnr-aurora-27000-mango-peach.png
+product-jnr-aurora-27000-blueberry-ice.png
+product-jnr-aurora-27000-pineapple-coconut.png
+product-jnr-aurora-27000-mixed-berries.png
+
+# JNR WindWhip 44K  (id: jnr-windwhip-44000)  20 flavors
+product-jnr-windwhip-44000.png   # SKU-level fallback (already exists for top movers)
+product-jnr-windwhip-44000-blue-razz-cherry.png
+product-jnr-windwhip-44000-cherry.png
+product-jnr-windwhip-44000-mixed-berry.png
+product-jnr-windwhip-44000-white-peach-razz.png
+product-jnr-windwhip-44000-fresh-strawberry-blueberry.png
+product-jnr-windwhip-44000-sour-raspberry.png
+product-jnr-windwhip-44000-watermelon-ice.png
+product-jnr-windwhip-44000-watermelon-bubblegum.png
+product-jnr-windwhip-44000-kiwi-watermelon.png
+product-jnr-windwhip-44000-strawberry-kiwi.png
+product-jnr-windwhip-44000-strawberry-watermelon.png
+product-jnr-windwhip-44000-strawberry-banana.png
+product-jnr-windwhip-44000-cherry-cola.png
+product-jnr-windwhip-44000-summer-peaches.png
+product-jnr-windwhip-44000-love-66.png
+product-jnr-windwhip-44000-hawaii.png
+product-jnr-windwhip-44000-double-apple.png
+product-jnr-windwhip-44000-green-apple-peach-pear.png
+product-jnr-windwhip-44000-black-ice.png
+product-jnr-windwhip-44000-black-dragon-ice.png
+
+# JNR Magic Vape 45K  (id: jnr-magic-vape-45000)  16 flavors
+product-jnr-magic-vape-45000.png   # SKU-level fallback (already exists for top movers)
+product-jnr-magic-vape-45000-magic-love.png
+product-jnr-magic-vape-45000-blueberry-mint.png
+product-jnr-magic-vape-45000-blueberry-raspberry.png
+product-jnr-magic-vape-45000-lemon-mint.png
+product-jnr-magic-vape-45000-mango-pineapple.png
+product-jnr-magic-vape-45000-cherry-fiesta.png
+product-jnr-magic-vape-45000-summer-peaches.png
+product-jnr-magic-vape-45000-double-apple.png
+product-jnr-magic-vape-45000-strawberry-watermelon.png
+product-jnr-magic-vape-45000-mixed-berries.png
+product-jnr-magic-vape-45000-cool-mint.png
+product-jnr-magic-vape-45000-lush-ice.png
+product-jnr-magic-vape-45000-tropical-fruit.png
+product-jnr-magic-vape-45000-cherry-cola.png
+product-jnr-magic-vape-45000-cola-mint.png
+product-jnr-magic-vape-45000-pina-colada.png
+
+# ===== Razzbar (6 SKUs) =====
+
+# Razzbar Razz Bar 65K+  (id: razzbar-65k)  16 flavors
+product-razzbar-65k.png   # SKU-level fallback (already exists for top movers)
+product-razzbar-65k-black-ice-dragon-fruit-strawberry.png
+product-razzbar-65k-coca-loca.png
+product-razzbar-65k-peach-mango-pineapple.png
+product-razzbar-65k-blackberry-ice.png
+product-razzbar-65k-blueberry-ice.png
+product-razzbar-65k-sour-apple.png
+product-razzbar-65k-blue-razz-cherry.png
+product-razzbar-65k-lush-ice.png
+product-razzbar-65k-strawberry-banana.png
+product-razzbar-65k-tropical-fruit.png
+product-razzbar-65k-blueberry-mint.png
+product-razzbar-65k-pink-lemonade.png
+product-razzbar-65k-peach-berry.png
+product-razzbar-65k-summer-peach-ice.png
+product-razzbar-65k-skittles.png
+product-razzbar-65k-cherry-cola.png
+
+# Razzbar Razz 60K  (id: razzbar-60k)  16 flavors
+product-razzbar-60k.png   # SKU-level fallback (already exists for top movers)
+product-razzbar-60k-strawberry-banana.png
+product-razzbar-60k-juicy-peach-ice.png
+product-razzbar-60k-coca-loca.png
+product-razzbar-60k-blueberry-sour-raspberry.png
+product-razzbar-60k-blueberry-ice.png
+product-razzbar-60k-gummy-bear.png
+product-razzbar-60k-blueberry-watermelon.png
+product-razzbar-60k-blueberry-bubble-gum.png
+product-razzbar-60k-strawberry-cake.png
+product-razzbar-60k-mixed-berries.png
+product-razzbar-60k-lova-66.png
+product-razzbar-60k-strawberry-java.png
+product-razzbar-60k-tropical-fruit.png
+product-razzbar-60k-strawberry-vanilla-cake.png
+product-razzbar-60k-lemon-lime.png
+product-razzbar-60k-summer-dream.png
+
+# Razzbar Razz Bar 40K  (id: razzbar-40k-new)  17 flavors
+product-razzbar-40k-new.png   # SKU-level fallback (already exists for top movers)
+product-razzbar-40k-new-strawberry-ice.png
+product-razzbar-40k-new-lush-ice.png
+product-razzbar-40k-new-kiwi-passion-fruit-guava.png
+product-razzbar-40k-new-lemon-lime.png
+product-razzbar-40k-new-blueberry-bubble-gum.png
+product-razzbar-40k-new-sour-bubble-gum.png
+product-razzbar-40k-new-eyemity-sour.png
+product-razzbar-40k-new-rainbow.png
+product-razzbar-40k-new-salt-ice.png
+product-razzbar-40k-new-cool-cool.png
+product-razzbar-40k-new-strawberry-mango.png
+product-razzbar-40k-new-watermelon-ice.png
+product-razzbar-40k-new-pink-lemonade.png
+product-razzbar-40k-new-mixed-berries.png
+product-razzbar-40k-new-cherry-berry.png
+product-razzbar-40k-new-sour-apple.png
+product-razzbar-40k-new-lemonade-ice.png
+
+# Razzbar Razz Bar 30K  (id: razzbar-30k)  15 flavors
+product-razzbar-30k.png   # SKU-level fallback (already exists for top movers)
+product-razzbar-30k-triple-melon.png
+product-razzbar-30k-strawberry-ice.png
+product-razzbar-30k-sour-apple.png
+product-razzbar-30k-mango-peach-watermelon.png
+product-razzbar-30k-strawberry-banana.png
+product-razzbar-30k-blueberry-ice.png
+product-razzbar-30k-juicy-peach-ice.png
+product-razzbar-30k-strawberry-mango.png
+product-razzbar-30k-watermelon-ice.png
+product-razzbar-30k-summer-grapes.png
+product-razzbar-30k-strawberry-watermelon.png
+product-razzbar-30k-blue-razz-ice.png
+product-razzbar-30k-lemon-lime.png
+product-razzbar-30k-cola-ice.png
+product-razzbar-30k-blackberry-ice.png
+
+# Razzbar Razz Bar Twins 40K  (id: razzbar-twins-40k)  13 flavors
+product-razzbar-twins-40k.png   # SKU-level fallback (already exists for top movers)
+product-razzbar-twins-40k-lemon-ice-cool-ice.png
+product-razzbar-twins-40k-strawberry-ice-watermelon-bubble-gum.png
+product-razzbar-twins-40k-black-ice-dragon-fruit-pineapple-coconut.png
+product-razzbar-twins-40k-peach-ice-blueberry.png
+product-razzbar-twins-40k-blueberry-mint-apple-mojito.png
+product-razzbar-twins-40k-cherry-cola-mr-pink.png
+product-razzbar-twins-40k-triple-melon-mr-blue.png
+product-razzbar-twins-40k-skittles-grape-burst.png
+product-razzbar-twins-40k-black-ice-dragon-fruit-strawberry-triple-melon.png
+product-razzbar-twins-40k-summer-dream-strawberry-banana.png
+product-razzbar-twins-40k-cherry-lemon-blueberry-sour-raspberry.png
+product-razzbar-twins-40k-love-66-sour-apple.png
+product-razzbar-twins-40k-lemon-lime-fresh-mint.png
+
+# Razzbar Razz Bar 50K  (id: razzbar-50k)  16 flavors
+product-razzbar-50k.png   # SKU-level fallback (already exists for top movers)
+product-razzbar-50k-raspberry-watermelon.png
+product-razzbar-50k-strawberry-ice.png
+product-razzbar-50k-red-bull-grape.png
+product-razzbar-50k-tropical-fruit.png
+product-razzbar-50k-banana.png
+product-razzbar-50k-blueberry-ice.png
+product-razzbar-50k-peach-ice.png
+product-razzbar-50k-pineapple-coconut.png
+product-razzbar-50k-watermelon-ice.png
+product-razzbar-50k-lemon-lime.png
+product-razzbar-50k-strawberry-banana.png
+product-razzbar-50k-mr-blue.png
+product-razzbar-50k-strawberry-watermelon-bubble-gum.png
+product-razzbar-50k-pink-lemonade.png
+product-razzbar-50k-cherry-cola.png
+product-razzbar-50k-gummy-bear.png
+
+# ===== VAPME (7 SKUs) =====
+
+# VAPME Crystal 36K  (id: vapme-crystal-36k)  24 flavors
+product-vapme-crystal-36k.png   # SKU-level fallback (already exists for top movers)
+product-vapme-crystal-36k-grape-berry.png
+product-vapme-crystal-36k-strawberry-watermelon-bubble-gum.png
+product-vapme-crystal-36k-strawberry-raspberry-candy.png
+product-vapme-crystal-36k-strawberry-banana.png
+product-vapme-crystal-36k-strawberry-watermelon.png
+product-vapme-crystal-36k-peach-mango-pineapple.png
+product-vapme-crystal-36k-mr-blue.png
+product-vapme-crystal-36k-blueberry-sour-raspberry.png
+product-vapme-crystal-36k-cherry-cola.png
+product-vapme-crystal-36k-tropical-fruit-punch.png
+product-vapme-crystal-36k-watermelon-ice.png
+product-vapme-crystal-36k-pineapple-coconut.png
+product-vapme-crystal-36k-strawberry-pineapple-ice.png
+product-vapme-crystal-36k-strawberry-mango.png
+product-vapme-crystal-36k-skittles.png
+product-vapme-crystal-36k-pink-lemonade.png
+product-vapme-crystal-36k-triple-melon.png
+product-vapme-crystal-36k-blueberry-mint.png
+product-vapme-crystal-36k-strawberry-gummy-bear.png
+product-vapme-crystal-36k-lemon-lime.png
+product-vapme-crystal-36k-mixed-berries.png
+product-vapme-crystal-36k-strawberry-ice.png
+product-vapme-crystal-36k-sour-apple.png
+product-vapme-crystal-36k-grape-ice.png
+
+# VAPME Shisha Hookah 15K  (id: vapme-shisha-hookah-15k)  14 flavors
+product-vapme-shisha-hookah-15k.png   # SKU-level fallback (already exists for top movers)
+product-vapme-shisha-hookah-15k-blueberry-ice.png
+product-vapme-shisha-hookah-15k-kiwi-passion-fruit.png
+product-vapme-shisha-hookah-15k-mr-blue.png
+product-vapme-shisha-hookah-15k-lush-ice.png
+product-vapme-shisha-hookah-15k-mixed-mango-pineapple.png
+product-vapme-shisha-hookah-15k-peach-ice.png
+product-vapme-shisha-hookah-15k-strawberry-mango.png
+product-vapme-shisha-hookah-15k-strawberry-watermelon.png
+product-vapme-shisha-hookah-15k-watermelon-mint.png
+product-vapme-shisha-hookah-15k-mango-banana.png
+product-vapme-shisha-hookah-15k-strawberry-ice.png
+product-vapme-shisha-hookah-15k-lemon-mint.png
+product-vapme-shisha-hookah-15k-blackcurrant-ice.png
+product-vapme-shisha-hookah-15k-pineapple-mate.png
+
+# VAPME Digital 50K  (id: vapme-digital-50k)  15 flavors
+product-vapme-digital-50k.png   # SKU-level fallback (already exists for top movers)
+product-vapme-digital-50k-blueberry-raspberry-ice.png
+product-vapme-digital-50k-cherry-ice.png
+product-vapme-digital-50k-kiwi-passion-fruit.png
+product-vapme-digital-50k-strawberry-banana.png
+product-vapme-digital-50k-watermelon-bubble-gum.png
+product-vapme-digital-50k-pink-lemonade.png
+product-vapme-digital-50k-tropical-fruit-punch.png
+product-vapme-digital-50k-cool-mint.png
+product-vapme-digital-50k-mr-pink.png
+product-vapme-digital-50k-mango-peach.png
+product-vapme-digital-50k-blueberry-cotton-cherry.png
+product-vapme-digital-50k-watermelon-strawberry.png
+product-vapme-digital-50k-strawberry-banana-indian.png
+product-vapme-digital-50k-mr-blue.png
+product-vapme-digital-50k-juicy-peach-ice.png
+
+# VAPME Crystal 25K  (id: vapme-crystal-25k)  15 flavors
+product-vapme-crystal-25k.png   # SKU-level fallback (already exists for top movers)
+product-vapme-crystal-25k-blueberry-ice.png
+product-vapme-crystal-25k-strawberry-watermelon.png
+product-vapme-crystal-25k-mr-blue.png
+product-vapme-crystal-25k-mr-pink.png
+product-vapme-crystal-25k-peach-berry.png
+product-vapme-crystal-25k-cherry-cola.png
+product-vapme-crystal-25k-lush-ice.png
+product-vapme-crystal-25k-mango-peach.png
+product-vapme-crystal-25k-strawberry-mango.png
+product-vapme-crystal-25k-mixed-berries.png
+product-vapme-crystal-25k-tropical-fruit.png
+product-vapme-crystal-25k-triple-melon.png
+product-vapme-crystal-25k-strawberry-banana.png
+product-vapme-crystal-25k-cool-mint.png
+product-vapme-crystal-25k-watermelon-ice.png
+
+# VAPME Shisha 30K  (id: vapme-shisha-30k)  15 flavors
+product-vapme-shisha-30k.png   # SKU-level fallback (already exists for top movers)
+product-vapme-shisha-30k-lush-66.png
+product-vapme-shisha-30k-strawberry-watermelon.png
+product-vapme-shisha-30k-strawberry-iove.png
+product-vapme-shisha-30k-strawberry-jam.png
+product-vapme-shisha-30k-lush-iolly.png
+product-vapme-shisha-30k-blueberry-bubble-gum.png
+product-vapme-shisha-30k-strawberry-candy.png
+product-vapme-shisha-30k-kiwi-bun-banana.png
+product-vapme-shisha-30k-lemonade.png
+product-vapme-shisha-30k-watermelon-bull-royal.png
+product-vapme-shisha-30k-peach-iam.png
+product-vapme-shisha-30k-mixed-berries.png
+product-vapme-shisha-30k-triple-melon.png
+product-vapme-shisha-30k-strawberry-ice.png
+product-vapme-shisha-30k-cool-mint.png
+
+# VAPME Three Wild Ride 3-in-1 30K  (id: vapme-three-wild-ride-30k)  10 flavors
+product-vapme-three-wild-ride-30k.png   # SKU-level fallback (already exists for top movers)
+product-vapme-three-wild-ride-30k-strawberry-watermelon-mr-blue.png
+product-vapme-three-wild-ride-30k-cherry-ice-blue-razz-pineapple.png
+product-vapme-three-wild-ride-30k-mr-pink-sour-apple-mr-blue.png
+product-vapme-three-wild-ride-30k-mango-peach-strawberry-mr-blue.png
+product-vapme-three-wild-ride-30k-mr-pink-sour-apple-strawberry.png
+product-vapme-three-wild-ride-30k-strawberry-banana-watermelon.png
+product-vapme-three-wild-ride-30k-triple-melon-strawberry.png
+product-vapme-three-wild-ride-30k-watermelon-mint-strawberry-mr-pink.png
+product-vapme-three-wild-ride-30k-pineapple-mango-strawberry-banana.png
+product-vapme-three-wild-ride-30k-blueberry-sour-raspberry.png
+
+# VAPME Crystal 48K  (id: vapme-crystal-48k)  17 flavors
+product-vapme-crystal-48k.png   # SKU-level fallback (already exists for top movers)
+product-vapme-crystal-48k-blueberry-raspberry.png
+product-vapme-crystal-48k-strawberry-watermelon.png
+product-vapme-crystal-48k-bubblegum.png
+product-vapme-crystal-48k-strawberry-raspberry-candy.png
+product-vapme-crystal-48k-peach-mango-pineapple.png
+product-vapme-crystal-48k-watermelon-ice.png
+product-vapme-crystal-48k-cherry-ice.png
+product-vapme-crystal-48k-passion-fruit-melon-ice.png
+product-vapme-crystal-48k-kiwi-watermelon-ice.png
+product-vapme-crystal-48k-strawberry-ice.png
+product-vapme-crystal-48k-peach-ice.png
+product-vapme-crystal-48k-blue-razz-lemonade.png
+product-vapme-crystal-48k-strawberry-cranberry-cherry.png
+product-vapme-crystal-48k-watermelon-kiwi-ice.png
+product-vapme-crystal-48k-cherry-berry.png
+product-vapme-crystal-48k-tropical-fruit-punch.png
+product-vapme-crystal-48k-dew-mint.png
