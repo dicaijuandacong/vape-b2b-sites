@@ -37,7 +37,7 @@ Import 本仓库 → **Root Directory 选 `apps/vape-europe`**（或另外两站
 
 ## 运营后台（apps/ops-board）
 
-中文界面的获客运营看板：飞书 OAuth 扫码登录、管理员白名单（RBAC）、询盘流、潜客外呼页、跟进记录，数据全部存你自己的飞书 Bitable。搭建步骤见 `apps/ops-board/docs/` 下的 setup 卡。⚠️ `SKIP_AUTH` 保持关闭。
+中文界面的获客运营看板：飞书 OAuth 扫码登录、管理员白名单（RBAC）、询盘流、潜客外呼页、跟进记录，数据全部存你自己的飞书 Bitable。搭建步骤见 `apps/ops-board/docs/` 下三张 setup 卡（飞书应用/飞书卡片回调/Telegram）。⚠️ `SKIP_AUTH` 保持关闭。
 
 ## 爬虫（tools/crawler）
 
