@@ -173,8 +173,7 @@
           "category": "disposable",
           "confidence": "low"
         }
-      ],
-      "source_pdf": "VOZOL+EU Warehouse+DDP.pdf"
+      ]
     },
     {
       "id": "vapen",
@@ -371,8 +370,7 @@
           "category": "disposable",
           "confidence": "low"
         }
-      ],
-      "source_pdf": "Vapen+EU Warehouse+DDP.pdf"
+      ]
     },
     {
       "id": "waspe",
@@ -498,8 +496,7 @@
           "category": "rechargeable-disposable",
           "confidence": "medium"
         }
-      ],
-      "source_pdf": "WASPE+EU Warehouse+DDP.pdf"
+      ]
     },
     {
       "id": "fumot",
@@ -850,8 +847,7 @@
           "tpd_compliant": true,
           "confidence": "estimated"
         }
-      ],
-      "source_pdf": "FUMOT+EU Warehouse+DDP.pdf"
+      ]
     },
     {
       "id": "jnr",
@@ -1310,8 +1306,7 @@
           "tpd_compliant": true,
           "confidence": "estimated"
         }
-      ],
-      "source_pdf": "JNR+DDP.pdf"
+      ]
     },
     {
       "id": "razzbar",
@@ -1694,8 +1689,7 @@
           "tpd_compliant": true,
           "confidence": "estimated"
         }
-      ],
-      "source_pdf": "Razzbar+EU Warehouse+DDP.pdf"
+      ]
     },
     {
       "id": "vapme",
@@ -2000,8 +1994,7 @@
           "tpd_compliant": true,
           "confidence": "estimated"
         }
-      ],
-      "source_pdf": "VAPME+DDP.pdf"
+      ]
     },
     {
       "id": "aaok",
